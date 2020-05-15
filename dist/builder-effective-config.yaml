@@ -1,0 +1,15 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.mcx.trayopener
+productName: Tray Opener
+mac:
+  category: public.app-category.developer-tools
+linux:
+  category: Utility
+  icon: icon.png
+  target:
+    - deb
+    - snap
+    - rpm
+electronVersion: 8.0.3

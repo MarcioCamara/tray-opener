@@ -1,0 +1,13 @@
+{
+    "open": "Abrir com VSCode",
+    "add": "Agregar nueva carpeta de proyecto...",
+    "close": "Salir",
+    "remove": "Eliminar",
+    "about": "Acerca de",
+    "developed": "Desarrollado por",
+    "version": "Version",
+    "yes": "Sí",
+    "no": "No",
+    "removeTitle": "Eliminar carpeta",
+    "removeMessage": "¿Realmente desea eliminar esta carpeta de la lista?"
+}

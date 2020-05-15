@@ -1,0 +1,13 @@
+{
+    "open": "Open with VSCode",
+    "add": "Add new project folder...",
+    "close": "Quit",
+    "remove": "Remove",
+    "about": "About",
+    "developed": "Developed by",
+    "version": "Version",
+    "yes": "Yes",
+    "no": "No",
+    "removeTitle": "Remove folder",
+    "removeMessage": "Do you really want to remove this folder from the list?"
+}

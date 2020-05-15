@@ -1,0 +1,13 @@
+{
+    "open": "Abrir com VSCode",
+    "add": "Adicionar nova pasta de projeto...",
+    "close": "Sair",
+    "remove": "Remover",
+    "about": "Sobre",
+    "developed": "Desenvolvido por",
+    "version": "Versão",
+    "yes": "Sim",
+    "no": "Não",
+    "removeTitle": "Remover pasta",
+    "removeMessage": "Você realmente deseja remover esta pasta da lista?"
+}
