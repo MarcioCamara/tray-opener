@@ -27,8 +27,8 @@
 
 - [Marcio Câmara](https://marciocamara.github.io) - Desenvolvimento (baseado no vídeo [Code Challenge: Criando app com Electron do zero!](https://www.youtube.com/watch?v=nznujk__7sQ) apresentado por [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg))
 
-Veja também a lista de [contribuidores](https://github.com/MarcioCamara/key2text-ahk/graphs/contributors) que participaram desse projeto.
+Veja também a lista de [contribuidores](https://github.com/MarcioCamara/tray-opener/graphs/contributors) que participaram desse projeto.
 
 ## Licença
 
-Esse projeto está licenciado sob a Licença [MIT](https://github.com/MarcioCamara/key2text-ahk/blob/master/LICENSE).
+Esse projeto está licenciado sob a Licença [MIT](https://github.com/MarcioCamara/tray-opener/blob/master/LICENSE).
